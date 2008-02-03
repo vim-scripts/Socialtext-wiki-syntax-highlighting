@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2131
+
+Syntax highlighting for the Socialtext wiki, http://www.socialtext.net/. Also a filetype detection script which sets appropriate buffer-local options for editing long lines, etc.
+
+Latest copy can be found at http://www.georgevreilly.com/vim/stwiki/
