@@ -6,7 +6,7 @@
 " Other Home:   http://www.socialtext.net/open/index.cgi?editing_the_wiki_with_vim_or_editor
 " Author:       George V. Reilly
 " Filenames:    *.wiki
-" Last Change: Mon Jan 28 10:00 PM 2008 P
+" Last Change: Sun Feb 10 07:00 PM 2008 P
 " Version:      0.3
 
 " Quit if syntax file is already loaded
